@@ -1,0 +1,91 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="straikare.github.io" resolutions="1x" timestamp="1537171374348">
+  <folder name="css">
+    <file name="site_global.css" crc="4084087115"/>
+    <file name="index.css" crc="3909321688" ref="index"/>
+    <file name="_.css" crc="4193191577" ref="в"/>
+    <file name="master_______-b.css" crc="4219792942" ref="1"/>
+    <file name="1.css" crc="4128833644" ref="1"/>
+    <file name="nomq_index.css" crc="505698015" ref="index"/>
+    <file name="nomq_preview_master_______-b.css" crc="3824530138" ref="1"/>
+    <file name="nomq_1.css" crc="4265539745" ref="1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:в:1"/>
+    <file name="museutils.js" crc="3803043152" ref="index:в:1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:в:1"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:в:1"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:1"/>
+    <file name="require.js" crc="4157109226" ref="index:в:1"/>
+    <file name="jquery.watch.js" crc="99325471" ref="в:index:1"/>
+    <file name="html5shiv.js" crc="4241844378" ref="в"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:1"/>
+  </folder>
+  <folder name="images">
+    <file name="wallhaven-474186.jpg" crc="458224734" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="futureui1_0.png" crc="312198446" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="futureui1_0-u1765-fr.png" crc="62049181" ref="index"/>
+    <file name="futureui1_0-u1765-r-fr.png" crc="4219626730" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:1"/>
+    <file name="yu9c7.jpg" crc="3975593748" ref="1">
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+      <caption webpage="1" alt=""/>
+    </file>
+    <file name="wallhaven-4741862.jpg" crc="4210263500" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="futureui1_0-u1765-fr2.png" crc="4194622043" ref="index"/>
+    <file name="futureui1_0-u1765-r-fr2.png" crc="508293292" ref="index"/>
+    <file name="futureui1_0-u1765-fr3.png" crc="3903399361" ref="index"/>
+    <file name="futureui1_0-u1765-r-fr3.png" crc="269101337" ref="index"/>
+    <file name="futureui1_0-u1765-fr4.png" crc="346310173" ref="index"/>
+    <file name="futureui1_0-u1765-r-fr4.png" crc="3937114630" ref="index"/>
+    <file name="wallhaven-4741861536x838.jpg" crc="90643479" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="futureui1_0-u1765-fr5.png" crc="103793930" ref="index"/>
+    <file name="futureui1_0-u1765-r-fr5.png" crc="3763654601" ref="index"/>
+    <file name="wallhaven-474186960x524.jpg" crc="1320463" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn.png" crc="112070914" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-r-fr.png" crc="4140183034" ref="index"/>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-fr.png" crc="160245847" ref="index"/>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-r-fr2.png" crc="411422420" ref="index"/>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-fr2.png" crc="294474727" ref="index"/>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-r-fr3.png" crc="480525544" ref="index"/>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-fr3.png" crc="4154381348" ref="index"/>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-r-fr4.png" crc="3792170931" ref="index"/>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-fr4.png" crc="252402243" ref="index"/>
+    <file name="sci_fi_wallpaper_by_limontea-d795xfn-u5864-r-fr5.png" crc="4122256394" ref="index"/>
+    <file name="u5620_states-r.png" crc="3985358350" ref="index"/>
+    <file name="u5620_states-r2.png" crc="151200011" ref="index"/>
+    <file name="u5620_states-r3.png" crc="3899496211" ref="index"/>
+    <file name="u5620_states-r4.png" crc="124420964" ref="index"/>
+    <file name="u5620_states-r5.png" crc="4169951405" ref="index"/>
+    <file name="u5620_states-r6.png" crc="4126058959" ref="index"/>
+    <file name="u5620_states-r7.png" crc="199277442" ref="index"/>
+  </folder>
+  <file name="index.html" crc="237591950" seo="true" mt="1537171364535" redirect="true"/>
+  <file name="в.html" crc="34855413" seo="true" mt="1537090776687" redirect="false"/>
+  <file name="1.html" crc="3777779134" seo="true" mt="1537171345540" redirect="true"/>
+</manifest>
